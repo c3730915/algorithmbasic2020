@@ -18,6 +18,7 @@ public class Code05_UnionFind {
 	// 包了一层
 	// 其实不用包一层哦
 	public static class UnionFind<V> {
+		//key:child value:father
 		public HashMap<V, V> father;
 		public HashMap<V, Integer> size;
 

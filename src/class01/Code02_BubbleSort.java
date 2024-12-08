@@ -2,6 +2,9 @@ package class01;
 
 import java.util.Arrays;
 
+/**
+ * 冒泡排序 每一次都左右相比
+ */
 public class Code02_BubbleSort {
 
 	public static void bubbleSort(int[] arr) {

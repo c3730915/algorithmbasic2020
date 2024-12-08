@@ -2,6 +2,10 @@ package class01;
 
 import java.util.Arrays;
 
+
+/**
+ * 选择排序 每一次选择最小的放到i位置
+ */
 public class Code01_SelectionSort {
 
 	public static void selectionSort(int[] arr) {
