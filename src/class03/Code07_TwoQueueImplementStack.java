@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
+//https://leetcode.cn/problems/implement-stack-using-queues/
 public class Code07_TwoQueueImplementStack {
 
 	public static class TwoQueueStack<T> {

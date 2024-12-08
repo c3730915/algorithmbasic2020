@@ -3,7 +3,9 @@ package class03;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
-
+//双链表实现栈和队列
+//https://leetcode.cn/problems/implement-stack-using-queues/description/
+//https://leetcode.cn/problems/implement-queue-using-stacks/
 public class Code03_DoubleEndsQueueToStackAndQueue {
 
 	public static class Node<T> {

@@ -1,5 +1,10 @@
 package class03;
 
+/**
+ 环形数组（用数组实现队列）
+ https://leetcode.cn/problems/implement-stack-using-queues/description/
+ https://leetcode.cn/problems/implement-queue-using-stacks/
+ */
 public class Code04_RingArray {
 
 	public static class MyQueue {

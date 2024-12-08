@@ -2,6 +2,7 @@ package class01;
 
 import java.util.Arrays;
 
+//https://leetcode.cn/problems/binary-search/
 public class Code04_BSExist {
 
 	public static boolean exist(int[] sortedArr, int num) {
